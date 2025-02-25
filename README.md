@@ -53,3 +53,30 @@ Develop financing models based on intellectual property, enterprise credit evalu
 
 1. **Technological Innovation**: Introduce analytical models such as dynamic Bayesian networks and Markov chains to sort out the risk transmission mechanisms of technology-based small and medium-sized enterprises.
 2. **Model Innovation**: Build an integrated evaluation system for intellectual property and enterprise credit, innovating financing service models.
+
+## Database construction
+
+### The global macroeconomic database
+
+![The global macroeconomic database](media/1.PNG)
+
+The global macroeconomic database integrates data resources from more than ten databases such as Wind, Guotai'an, Zero2IPO, CVSource, and the World Bank, with over 780,000 data entries spanning from 1975 to 2020. It covers macro-level indicators for more than 200 countries and regions worldwide, encompassing core indicators in areas such as national economic accounting, employment and wages, balance of payments, foreign trade, international reserves, securities markets, interest rates, exchange rates, finance, population and resources, energy, tourism, agriculture, transportation, and carbon emissions.
+
+### The Chinese Enterprise Dynamic Data
+
+![The Chinese Enterprise Dynamic Data](media/2.PNG)
+
+## Overall Architecture
+
+![The Chinese Enterprise Dynamic Data](media/3.PNG)
+
+1. **Development of an Evaluation Technology Solution Based on Intellectual Property**:
+   Starting with patent information data, this project leverages big data intelligent mining and analysis technology, combined with traditional evaluation tools and financial technology means such as machine learning, to break through key technologies in intellectual property evaluation. It establishes a multi-dimensional dynamic evaluation system to improve the accuracy of patent valuation and address issues such as information asymmetry, excessively high costs of capital acquisition, and inadequate financial service channels.
+2. **Development of a Corporate Credit and Risk Control Solution**:
+   This project aims to break through key technologies in credit evaluation and risk control for small and medium-sized enterprises (SMEs). Based on theoretical research results in credit evaluation and risk control for technology-based micro, small, and medium-sized enterprises, it utilizes two typical case databases (for credit evaluation and risk control) as the foundation for qualitative analysis. Supported by credit evaluation models and risk control models for quantitative analysis, it develops an integrated solution for credit evaluation and risk control tailored for these enterprises.
+3. **Development of an Integrated Application Solution for Intellectual Property and Corporate Credit Risk Control**:
+   This project seeks to break through key technologies for integrating intellectual property evaluation and credit risk control. By cross-verifying intellectual property data, credit evaluation data, and risk control data, it forms an integrated application solution comprising comprehensive credit evaluation, comprehensive risk control, a multi-dimensional information verification system, and dynamic adjustment applications. Building upon the accumulated data from typical cases in risk control and credit evaluation, it conducts dynamic simulations and iterations of the comprehensive solution embedded with core intellectual property evaluation technology, laying the technical foundation and application blueprint for the subsequent development and construction of investment and financing platforms.
+
+## Platform Display
+
+![The Chinese Enterprise Dynamic Data](media/4.PNG)
